@@ -1,5 +1,4 @@
-# Python Project - Investment Analysis and Strategy
-
+# Quantitative investment strategy 
 This project provides a simple, complete and accessible solution for a finance project in Python.
 > ⚠️ This project is for academic and educational purposes only
 
