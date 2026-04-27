@@ -1,0 +1,23 @@
+TICKERS = [
+    "AAPL", "MSFT", "AMZN", "GOOGL", "META",
+    "NVDA", "TSLA", "JPM", "V", "MA",
+    "JNJ", "PG", "HD", "KO", "PEP",
+    "PFE", "ABBV", "MRK", "BAC", "WMT",
+    "DIS", "NFLX", "ADBE", "CRM", "NKE",
+    "MCD", "XOM", "CVX", "INTC", "AMD",
+]
+
+BENCHMARK = "^GSPC"
+
+START_DATE = "2020-01-01"
+END_DATE = "2026-03-01"
+
+SHORT_WINDOW = 20
+LONG_WINDOW = 50
+
+MAX_STOCKS = 10
+REBALANCE_FREQUENCY = "MS"
+
+INITIAL_CAPITAL = 10000
+
+OUTPUT_DIR = "outputs"

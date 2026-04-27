@@ -1,0 +1,10 @@
+RESUME DU BACKTEST
+
+Valeur finale du portefeuille : 32449.59
+Valeur finale du benchmark : 21114.78
+Rendement total du portefeuille : 224.50 %
+Rendement total du benchmark : 111.15 %
+Nombre de trades : 195
+Probabilite de reussite des trades : 54.87 %
+Gain moyen des trades gagnants : 20.66 %
+Perte moyenne des trades perdants : -8.06 %
